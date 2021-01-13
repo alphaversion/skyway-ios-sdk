@@ -5,6 +5,7 @@
 //
 
 import UIKit
+import BSON
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
